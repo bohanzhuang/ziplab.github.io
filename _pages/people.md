@@ -1,8 +1,9 @@
 ---
 permalink: /people/
-title: "Lab Members"
 author_profile: true
 ---
+ 
+<center># Lab Members</center>
 
 ## PI
 [Dr. Bohan Zhuang](https://www.baidu.com)
