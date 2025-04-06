@@ -5,7 +5,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="../images/zip.png" width="100%" />  
+<div style="display: flex; justify-content: center; overflow: hidden;">
+  <img src="../images/zip.png" style="width: 100vw; height: auto;" />
+</div>
 
 Welcome to ZIP Lab!
 
