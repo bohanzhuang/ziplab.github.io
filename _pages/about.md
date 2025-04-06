@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![zip_lab](../images/zip.png)
+<img src="../images/zip.png" width="100%" />  
 
 Welcome to ZIP Lab!
 
