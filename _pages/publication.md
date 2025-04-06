@@ -29,6 +29,16 @@ Zizheng Pan, Bohan Zhuang#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Ji
 
 
 \[[Paper](https://arxiv.org/abs/2402.14167)\]\[[Code](https://github.com/NVlabs/T-Stitch)\]\[[Project](https://t-stitch.github.io/)\] **ICLR 2025**
+
+- **Channel Merging: Preserving Specialization for Merged Experts**
+
+
+Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang#
+
+
+\[[Paper](https://arxiv.org/abs/2412.15283)\] **AAAI 2025** **(**<font color="red">Oral</font>**)**
+
+
 ## 2024
 
 ## 2023
