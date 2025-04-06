@@ -1,5 +1,6 @@
 ---
 permalink: /people/
+title: "Lab Members"
 author_profile: true
 ---
 
