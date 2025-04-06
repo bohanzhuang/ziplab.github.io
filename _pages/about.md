@@ -6,9 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="position: relative; overflow: hidden;">
-  <img src="../images/zip.png" style="position: absolute; left: 50%; transform: translateX(-50%); width: 100vw; height: auto;" />
-</div>
+<img src="../images/zip.png" width="100%" />
 
 Welcome to ZIP Lab!
 
