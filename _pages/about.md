@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuang Intelligent Processing Lab (ZIP Lab) - ZIP Lab"
+title: "Zhuang Intelligent Processing Lab (ZIP Lab)"
 author_profile: false
 redirect_from: 
   - /about/
