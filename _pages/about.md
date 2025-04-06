@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![zip_lab](https://github.com/Hygge02/hygge02.github.io/images/zip.png)
+![zip_lab](../images/zip.png)
 
 Welcome to ZIP Lab!
 
