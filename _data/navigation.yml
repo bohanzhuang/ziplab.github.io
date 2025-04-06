@@ -10,6 +10,8 @@
 main:
   # - title: "Home"
   #   url: /home/
+  - title: "Latest News"
+    url: /latest_news/
   - title: "People"
     url: /people/
   - title: "Publication"

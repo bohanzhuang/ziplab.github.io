@@ -36,7 +36,7 @@ Zizheng Pan, Bohan Zhuang#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Ji
 Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang#
 
 
-\[[Paper](https://arxiv.org/abs/2412.15283)\] **AAAI 2025** **(**<font color="red">Oral</font>**)**
+\[[Paper](https://arxiv.org/abs/2412.15283)\] **AAAI 2025** **(**<font color="red"><b>Oral<b></font>**)**
 
 
 ## 2024
