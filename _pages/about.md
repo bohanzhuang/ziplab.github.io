@@ -5,20 +5,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    width: 100vw;  /* 视口宽度 */
-  }
-  .container {
-    width: 100%;
-  }
-</style>
-
-<div class="container">
-  <img src="../images/zip.png" style="display: block; width: 100%; max-width: 100%;" />
-</div>
+<img src="../images/zip.png" 
+     style="display: block; 
+            width: 100%; 
+            max-width: 100vw; 
+            height: auto; 
+            box-sizing: content-box;" />
 
 Welcome to ZIP Lab!
 
