@@ -12,8 +12,8 @@ main:
   #   url: /home/
   - title: "People"
     url: /people/
-  - title: "Publications"
-    url: /publications/
+  - title: "Publication"
+    url: /publication/
 
   # - title: "Talks"
   #   url: /talks/    
