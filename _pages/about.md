@@ -4,7 +4,6 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-image: '../images/zip.png'
 ---
 <img src="../images/zip.png" width="100%" />
 
