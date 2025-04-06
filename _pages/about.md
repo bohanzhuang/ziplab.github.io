@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Zhuang Intelligent Processing Lab (ZIP Lab)"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+![zip_lab](https://github.com/Hygge02/hygge02.github.io/images/zip.png)
 
 Welcome to ZIP Lab!
 
