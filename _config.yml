@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "ZIP Lab"
-  github           : "https://github.com/ziplab"
+  github           : "ziplab"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
