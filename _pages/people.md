@@ -4,15 +4,27 @@ title : "Lab Members"
 author_profile: true
 ---
 ## PI
-[Dr. Bohan Zhuang](https://www.baidu.com)
+[Dr. Bohan Zhuang](https://hygge02.github.io/)
 
 ## Co-PI (Former PhDs)
-[Zizheng Pan](https://www.baidu.com) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek**  
-[Jing Liu](https://www.baidu.com) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance USA**
+[Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek**  
+[Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance USA**  
+[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Tiktok Sydney**  
+Yuetian Weng (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines**  
+[Yuedong Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance Singapore**
 
 ## PhD & Master Students
+[Yefei He](https://hexy.tech/) (PhD @ Zhejiang University, 2021-2026)  
+[Feng Chen](https://github.com/Chenfeng1271) (PhD @ The University of Adelaide, 2023-2026)  
+[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-2026)  
+[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-2027)  
+[Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University, 2025-2030)  
+[Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-2027)  
+[Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-2028)
 
 ## Research Fellows & Collaborators
 
-## Bachelor Students
-
+## Visiting Students
+[Xi Lin](https://github.com/erix025) (Zhejiang University)  
+Shaoxuan He (Zhejiang University)  
+Xiaolong Li (Harbin Institute of Technology)
